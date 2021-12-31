@@ -1,0 +1,10 @@
+C:\Users\Paulinka\Desktop\MathApp\MathApp\MathApp\bin\Debug\MathApp.exe.config
+C:\Users\Paulinka\Desktop\MathApp\MathApp\MathApp\bin\Debug\MathApp.exe
+C:\Users\Paulinka\Desktop\MathApp\MathApp\MathApp\bin\Debug\MathApp.pdb
+C:\Users\Paulinka\Desktop\MathApp\MathApp\MathApp\obj\Debug\MathApp.csproj.AssemblyReference.cache
+C:\Users\Paulinka\Desktop\MathApp\MathApp\MathApp\obj\Debug\MathApp.Form1.resources
+C:\Users\Paulinka\Desktop\MathApp\MathApp\MathApp\obj\Debug\MathApp.Properties.Resources.resources
+C:\Users\Paulinka\Desktop\MathApp\MathApp\MathApp\obj\Debug\MathApp.csproj.GenerateResource.cache
+C:\Users\Paulinka\Desktop\MathApp\MathApp\MathApp\obj\Debug\MathApp.csproj.CoreCompileInputs.cache
+C:\Users\Paulinka\Desktop\MathApp\MathApp\MathApp\obj\Debug\MathApp.exe
+C:\Users\Paulinka\Desktop\MathApp\MathApp\MathApp\obj\Debug\MathApp.pdb
